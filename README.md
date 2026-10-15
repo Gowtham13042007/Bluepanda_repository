@@ -38,4 +38,4 @@ BluePanda combines modern web technologies, AI models, and retrieval-based appro
 
 Learning should not mean spending hours navigating lengthy documents or searching for explanations across multiple platforms. BluePanda brings learning materials, AI-powered explanations, doubt clarification, and revision tools together in one place.
 
-**BluePanda — Turn your study materials into a personalized learning experience.** 🐼
+**BluePanda — Turn your study materials into a personalized learning experience.** 
