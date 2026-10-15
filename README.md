@@ -1,4 +1,14 @@
-# BluePanda — Learn Smarter with AI 🐼
+<p align="center">
+  <img src="logo.png" alt="BluePanda Logo" width="200"/>
+</p>
+
+<h1 align="center">BluePanda — Learn Smarter with AI 🐼</h1>
+
+<p align="center">
+  Turn your study materials into a personalized learning experience.
+</p>
+
+# BluePanda — Learn Smarter with AI 
 
 BluePanda is an AI-powered personalized learning platform designed to make studying more interactive, structured, and accessible. It transforms books and PDF documents into organized learning modules, helping users understand complex concepts through detailed explanations, contextual AI assistance, and automatically generated flashcards.
 
